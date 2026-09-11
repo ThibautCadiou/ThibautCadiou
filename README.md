@@ -62,9 +62,6 @@ Développeur **freelance**, je m'occupe de la conception de sites WordPress sur 
 ### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThibautCadiou&show_icons=true&theme=default&hide_border=true" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThibautCadiou&hide_border=true" />
 </p>
 
