@@ -46,6 +46,7 @@ Développeur **freelance**, je m'occupe de la conception de sites WordPress sur 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+
 **Données & Outils**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
