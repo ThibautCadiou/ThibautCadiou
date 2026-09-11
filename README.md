@@ -55,7 +55,7 @@ Développeur **freelance**, je m'occupe de la conception de sites WordPress sur 
 
 - **[Trait d'harmonie](https://www.traitdharmonie.fr/)** — Webdesign et intergration en utilisant React + Next.js (en cours de reconversion vers du WordPress avec thème et plugin sur mesure).
 - **[Club escalade de Saint-Lô](https://clubescaladesaintlo.fr/)** — Design, Webdesign et intégration .
-- **[Site internet du Centre de Formation des Sophrologues Professionnels](https://sophrologie-ecole.fr/))** — Du brief client à l'intégration avec formation en passant par le webdesign
+- **[Site internet du Centre de Formation des Sophrologues Professionnels](https://sophrologie-ecole.fr/)** — Du brief client à l'intégration avec formation en passant par le webdesign
 
 ---
 
